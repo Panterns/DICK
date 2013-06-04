@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace MvcApplication2
+namespace DICK.CORE
 {
     public class FilterConfig
     {

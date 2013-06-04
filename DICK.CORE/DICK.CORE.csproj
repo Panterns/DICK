@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{A780779C-1734-4486-B4F1-B7B41B3F2727}</ProjectGuid>
+    <ProjectGuid>{2513C22E-93DF-42E0-9271-6FB9450D2197}</ProjectGuid>
     <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MvcApplication2</RootNamespace>
-    <AssemblyName>MvcApplication2</AssemblyName>
+    <RootNamespace>DICK.CORE</RootNamespace>
+    <AssemblyName>DICK.CORE</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>false</UseIISExpress>
