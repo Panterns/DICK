@@ -4,13 +4,17 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace DowntimeIntervalCalendarKeeper.Controllers
+namespace DICK.CORE.Controllers
 {
-    public class HomeController : Controller
+    public class MaintenanceWindowController : Controller
     {
+        //
+        // GET: /Maintenance/
+
         public ActionResult Index()
         {
             return View();
         }
+
     }
 }
